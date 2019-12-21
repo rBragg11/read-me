@@ -1,2 +1,5 @@
 # read-me
-Tutorial, Github. December 20, 2019
+
+Hello
+
+Using github to increase my programing skills.
